@@ -14,8 +14,8 @@
 <body>
 <div align="center">
 <a href="https://github.com/Flaviogameover" >
-<img width="50%" src="https://www.github-readme-stats-beta-ruby-62.vercel.app/api?username=Flaviogameover&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img width="50%" src="https://www.github-readme-stats-beta-ruby-62.vercel.app/api/top-langs/?username=Flaviogameover&layout=compact&langs_count=8&theme=github_dark"/>
+<img width="50%" src="https://github-readme-stats-beta-ruby-62.vercel.app/api?username=Flaviogameover&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img width="50%" src="https://github-readme-stats-beta-ruby-62.vercel.app/api/top-langs/?username=Flaviogameover&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 
 ##
