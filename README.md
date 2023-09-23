@@ -3,7 +3,8 @@
 ##
 
 - 🔭 Desenvolvo projetos fullstack
-- 🌱 Atualmente estou focando no backend
+- 📖 Atualmente estudando NextJS 13 | React Native
+- 📝 Criando projetos mobile
 
 ##
 
