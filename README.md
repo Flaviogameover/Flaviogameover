@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvo projetos fullstack
 - 📖 Atualmente estudando NextJS 14 | I.A | React Native
-- 📝 Criando projetos mobile
+- 📝 Criando web apps e APIs
 
 ##
 
